@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @reddygovardhan
-- 👀 I’m interested in New things
-- 🌱 I’m currently learning what's the world is going to face
-- 💞️ I’m looking to collaborate on social world
+- 👋 Hi, I’m Govardhan Reddy
+- 👀 I’m interested in New Technologies, New Inventions, New Futuristic things
+- 🌱 I’m currently learning and working experiments on AI applications
+- 💞️ I’m looking to collaborate with open minds & social world
 - 📫 How to reach me drop a mail to reddygovardhanreddy@gmail.com
 
 <!---
